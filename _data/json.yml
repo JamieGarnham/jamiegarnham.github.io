@@ -2,15 +2,6 @@
   value: Jamie Garnham
 - key: Description
   value: "jamie garnham's internet archive"
-- key: contact
-  value:
-    - key: email
-      value: jamiegar43 [at] gmail [dot] com
-      url:  "mailto:jamiegar43@gmail.com"
-    - key: linkedin
-      value: here
-      url: https://www.linkedin.com/in/jamie-garnham/
-
 - key: Projects
   value:
     - value: lingoly-team
@@ -19,8 +10,13 @@
       url: https://github.com/JamieGarnham/sophocles
     - value: ag-vocab-tester
       url: https://github.com/JamieGarnham/ag-vocab-tester
-- key: GitHub
-  value: JamieGarnham
-  url: https://github.com/JamieGarnham
+- key: contact
+  value:
+    - key: email
+      value: jamiegar43 [at] gmail [dot] com
+      url:  "mailto:jamiegar43@gmail.com"
+    - key: linkedin
+      value: here
+      url: https://www.linkedin.com/in/jamie-garnham/
 - key: writing
   value: under construction
