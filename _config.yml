@@ -1,3 +1,5 @@
-theme: hacked-jekyll
+remote_theme: piazzai/hacked-jekyll
+plugins:
+  - jekyll-remote-theme
 title: "jamie garnham's internet archive"
 description: under construction
