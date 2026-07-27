@@ -2,6 +2,12 @@
   value: Jamie Garnham
 - key: Description
   value: "jamie garnham's internet archive"
+- key: Contact
+  value:
+    - key: email
+      value: jamiegar43{at}gmail{dot}com
+      url:  "mailto:jamiegar43@gmail.com"
+
 - key: Projects
   value:
     - value: lingoly-team
