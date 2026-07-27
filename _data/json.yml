@@ -4,8 +4,8 @@
   value: "jamie garnham's internet archive"
 - key: Contact
   value:
-    - key: email
-      value: jamiegar43{at}gmail{dot}com
+    - key: me
+      value: here
       url:  "mailto:jamiegar43@gmail.com"
 
 - key: Projects
