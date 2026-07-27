@@ -2,21 +2,28 @@
   value: Jamie Garnham
 - key: Description
   value: "jamie garnham's internet archive"
-- key: Projects
+- key: CV
+  value: under construction
+- key: honours thesis
   value:
-    - value: lingoly-team
+    - value: paper
+      url: https://aclanthology.org/2026.conll-main.28/
+    - value: video [coming soon]
+    - value: code
       url: https://github.com/JamieGarnham/lingoly-team
+    - value: datasets
+      url: https://huggingface.co/datasets/jamiegarnham/lingoly-team
+- key: other Projects
+  value:
     - value: sophocles
       url: https://github.com/JamieGarnham/sophocles
     - value: ag-vocab-tester
       url: https://github.com/JamieGarnham/ag-vocab-tester
 - key: contact
   value:
-    - key: email
-      value: jamiegar43 [at] gmail [dot] com
+    - value: email
       url:  "mailto:jamiegar43@gmail.com"
-    - key: linkedin
-      value: here
+    - value: linkedin
       url: https://www.linkedin.com/in/jamie-garnham/
 - key: writing
   value: under construction
