@@ -1,0 +1,15 @@
+- key: Name
+  value: Jamie Garnham
+- key: Description
+  value: under construction
+- key: Projects
+  value:
+    - value: lingoly-team
+      url: https://github.com/JamieGarnham/lingoly-team
+    - value: sophocles
+      url: https://github.com/JamieGarnham/sophocles
+    - value: ag-vocab-tester
+      url: https://github.com/JamieGarnham/ag-vocab-tester
+- key: GitHub
+  value: JamieGarnham
+  url: https://github.com/JamieGarnham
