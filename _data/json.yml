@@ -1,14 +1,12 @@
 - key: Name
-  value: Jamie Garnham
-- key: Description
-  value: "jamie garnham's internet archive"
+  value: "Jamie Garnham's internet archive"
 - key: CV
   value: under construction
 - key: honours thesis
   value:
     - value: paper
       url: https://aclanthology.org/2026.conll-main.28/
-    - value: video [coming soon]
+    - value: "video [coming soon]"
     - value: code
       url: https://github.com/JamieGarnham/lingoly-team
     - value: datasets
